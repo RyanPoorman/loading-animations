@@ -3,8 +3,6 @@
   width: 40px;
   height: 40px;
   position: relative;
-  -webkit-transform: rotateZ(45deg) skewX(-30deg);
-          transform: rotateZ(45deg) skewX(-30deg);
 }
 
 .sk-folding-cube .sk-cube {
